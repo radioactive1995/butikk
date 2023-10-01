@@ -24,3 +24,10 @@ Eksempel JSON payload foresporsel:
   ]
 }
 ```
+
+Forventet **200 OK** respons:
+```json
+{
+  "beregnetSum": 5140
+}
+```
