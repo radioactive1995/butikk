@@ -2,6 +2,9 @@
 ### Benytt swagger til å teste endepunkt: 
 https://localhost:7145/swagger/index.html
 
+typeVare: 0 --> PLU A
+typeVare: 1 --> PLU B
+typeVare: 2 --> PLU C
 
 Eksempel JSON payload foresporsel:
 ```json
